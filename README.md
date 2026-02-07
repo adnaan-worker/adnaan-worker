@@ -11,8 +11,10 @@
 于代码里复刻经典美好，用脚本化解日常琐碎，让冰冷的数字成为连接热爱与生活的桥梁。或为复刻一款童年经典敲下千行代码，或为简化一次日常操作写就几行脚本，始终相信**道虽迩，不行不至**，技术的美好，在于既能奔赴星辰大海，也能温暖人间烟火。
 
 ## 与我联结
-- 📮 邮箱：adnaan.worker@gmail.com
-- 💻 技术同频：GitHub / Gitee 私信交流
+✉️ 邮箱：1662877157@qq.com
+🌐 Gitee：http://gitee.com/adnaan
+📁 GitHub：https://github.com/adnaan-worker
+🌍 博客：http://www.adnaan.site
 
 愿与每一位热爱技术、心怀创意的同行者，并肩而行，在代码的世界里，共探未知，共筑美好。
 
