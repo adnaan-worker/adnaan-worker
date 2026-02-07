@@ -15,5 +15,4 @@
 - 💻 技术同频：GitHub / Gitee 私信交流
 
 愿与每一位热爱技术、心怀创意的同行者，并肩而行，在代码的世界里，共探未知，共筑美好。
-<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/4c54c64a-8d96-4339-85c0-6b115df5ae0a" />
 
