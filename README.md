@@ -15,7 +15,7 @@
 
 🌐 Gitee：http://gitee.com/adnaan
 
-📁 GitHub：https://github.com/adnaan-worker
+📁 GitHub：https://github.com/ad-naan
 
 🌍 博客：http://www.adnaan.site
 
